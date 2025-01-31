@@ -1,5 +1,5 @@
 ## Hi there 👋
-My Name is ==Pattarapol Thanuchit==
+My Name is ==Pattarapol Thanuchit==.
 
 - 🔭 I’m Software Tester (Automated,Manual)
 
