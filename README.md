@@ -1,5 +1,6 @@
 ## Hi there 👋
-I need to highlight these ==very important words==.
+My Name is ==Pattarapol Thanuchit==
+
 - 🔭 I’m Software Tester (Automated,Manual)
 
 ## Library :computer:
