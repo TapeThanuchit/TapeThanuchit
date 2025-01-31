@@ -1,7 +1,10 @@
 ## Hi there 👋
-My Name is ==Pattarapol Thanuchit==.
+
+My Name is **Pattarapol Thanuchit**. :smile:
 
 - 🔭 I’m Software Tester (Automated,Manual)
+  
+Testing WebSite,API,Mobile
 
 ## Library :computer:
 - Robot Framework
@@ -11,3 +14,9 @@ My Name is ==Pattarapol Thanuchit==.
 - Request
 - RPA.Excel.Files
 - RPA.Tables
+
+## Self Learning :notebook:
+- Playwrite
+- Cypress
+- Java Script
+- Type Script
